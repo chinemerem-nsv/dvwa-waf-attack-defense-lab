@@ -109,6 +109,11 @@ This project documents a hands-on cybersecurity lab focused on identifying and d
 
 ## Attack Simulation
 
+### dvwa accessible from Kali Linux.
+
+**Evidence:**
+![DVWA ACCESSIBLE](screenshots/dvwa_accessible.jpeg)
+
 ### SQL Injection
 Tested using DVWA SQL Injection module.  
 
