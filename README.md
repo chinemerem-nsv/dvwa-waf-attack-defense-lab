@@ -163,7 +163,7 @@ ModSecurity WAF was installed and enabled on Apache (configured during setup). D
 ## Attack Blocking Validation
 
 ### SQL Injection Block
-Blocked requests returned HTTP 403.  
+SQL Injection Blocked successfully.  
 
 **Evidence:**
 ![SQLi Blocked](screenshots/sqli_blocked.jpeg)
