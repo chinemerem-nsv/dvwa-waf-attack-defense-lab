@@ -13,8 +13,9 @@
 8. [Testing Methodology](#testing-methodology)
 9. [Attack Blocking Validation](#attack-blocking-validation)
 10. [Log Evidence](#log-evidence)
-11. [Conclusion](#conclusion)
-12. [License](#license)
+11. [Key Takeaways](#key-takeaways)
+12. [Conclusion](#conclusion)
+13. [License](#license)
 
 ---
 
@@ -185,6 +186,15 @@ Log file location:
 ```
 /var/log/apache2/modsec_audit.log
 ```
+
+---
+
+## Key Takeaways
+
+- SQL Injection and Cross-Site Scripting are among the most common web application vulnerabilities.
+- Web Application Firewalls provide an important layer of defense against malicious requests.
+- Security controls must always be tested to verify their effectiveness.
+- Practical labs are essential for developing real-world cybersecurity skills.
 
 ---
 
